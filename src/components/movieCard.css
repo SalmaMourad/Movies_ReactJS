@@ -1,0 +1,28 @@
+.movie-card {
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
+  transition: 0.3s;
+  cursor: pointer;
+  background-color: #1e1e2f;
+  color: white;
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+}
+
+.movie-img {
+  height: 350px;
+  object-fit: cover;
+}
+
+.movie-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.movie-rating {
+  color: #ffc107;
+}

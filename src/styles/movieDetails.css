@@ -1,0 +1,41 @@
+.details-page {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+    background: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.4));
+  /* background: rgba(0, 0, 0, 0.8); */
+  min-height: 100vh;
+  color: white;
+}
+
+.poster-img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.7);
+  transition: 0.3s;
+}
+
+.poster-img:hover {
+  transform: scale(1.05);
+}
+
+.movie-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.rating {
+  color: #ffc107;
+  font-size: 1.3rem;
+}
+
+.overview {
+  margin-top: 15px;
+  line-height: 1.7;
+  color: #ddd;
+}
