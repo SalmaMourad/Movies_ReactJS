@@ -14,7 +14,6 @@ export default function SimpleBackdrop() {
 
   return (
     <div>
-      {/* <Button onClick={handleOpen}>Show backdrop</Button> */}
       <Backdrop
         sx={(theme) => ({ color: '#fff', zIndex: theme.zIndex.drawer + 1 })}
         open={open}

@@ -18,7 +18,11 @@
   object-fit: cover;
 }
 
-.movie-title {
+/* .movie-title {
+  font-size: 16px;
+  font-weight: bold;
+} */
+.card-title-text {
   font-size: 16px;
   font-weight: bold;
 }

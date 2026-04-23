@@ -7,7 +7,6 @@
 
 .overlay {
     background: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.4));
-  /* background: rgba(0, 0, 0, 0.8); */
   min-height: 100vh;
   color: white;
 }
@@ -38,4 +37,7 @@
   margin-top: 15px;
   line-height: 1.7;
   color: #ddd;
+}
+.genres {
+  margin-top: 20px;
 }

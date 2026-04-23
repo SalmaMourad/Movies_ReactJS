@@ -15,12 +15,16 @@ const MovieCard = ({ movie }) => {
       >
         <Card.Img
           variant="top"
-          src={imgPath + movie.poster_path || "https://via.placeholder.com/500x750?text=No+Image"}
+          src={
+            movie.poster_path
+              ? imgPath + movie.poster_path
+              : "https://via.placeholder.com/500x750?text=No+Image"
+          }
           className="movie-img"
         />
 
         <Card.Body>
-          <Card.Title className="movie-title">
+          <Card.Title className="card-title-text">
             {movie.title}
           </Card.Title>
 
@@ -34,53 +38,3 @@ const MovieCard = ({ movie }) => {
 };
 
 export default MovieCard;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// import { Card, Col } from "react-bootstrap";
-// import { useNavigate } from "react-router-dom";
-
-// const imgPath = "https://image.tmdb.org/t/p/w500/";
-
-// const MovieCard = ({ movie }) => {
-//   const navigate = useNavigate();
-
-//   return (
-//     <Col md={3} className="mb-4">
-//       <Card onClick={() => navigate(`/movie/${movie.id}`)} style={{ cursor: "pointer" }}>
-        
-//         <Card.Img variant="top" src={imgPath + movie.poster_path} />
-
-//         <Card.Body>
-//           <Card.Title>{movie.title}</Card.Title>
-//         </Card.Body>
-
-//       </Card>
-//     </Col>
-//   );
-// };
-
-// export default MovieCard;
