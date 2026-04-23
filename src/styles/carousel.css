@@ -1,0 +1,18 @@
+.carousel-overlay {
+  height: 100%;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.4),
+    rgba(0, 0, 0, 0.35)
+  );
+  color: white;
+}
+
+.carousel-overlay h2 {
+  font-weight: bold;
+}
+
+.carousel-overlay p {
+  font-size: 18px;
+  color: #ffc107;
+}
