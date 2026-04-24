@@ -1,10 +1,203 @@
+/* Styling the year specifically */
+.release-year {
+  font-size: 2.5rem;
+  color: #818cf8; /* Matching your indigo theme */
+  opacity: 0.8;
+  font-weight: 300;
+}
+
+/* Ensure the title doesn't force a wrap too early */
+.movie-title {
+  margin-bottom: 0;
+  white-space: nowrap;
+}
+
+/* Responsive adjustment: if the screen is tiny, they will stack nicely */
+@media (max-width: 768px) {
+  .movie-title {
+    white-space: normal;
+    font-size: 2rem;
+  }
+}
+/* Base Custom Button Style */
+.btn-custom {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(5px);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+}
+
+/* .btn-icon {
+  margin-right: 10px;
+  font-size: 1.1rem;
+} */
+
+/* Edit Button (Indigo Glow) */
+.btn-edit {
+  color: #818cf8;
+  border: 1px solid rgba(129, 140, 248, 0.4);
+}
+
+.btn-edit:hover {
+  background: #818cf8;
+  color: white;
+  transform: translateY(-3px);
+  box-shadow: 0 0 20px rgba(129, 140, 248, 0.5);
+  border-color: #818cf8;
+}
+
+/* Delete Button (Soft Crimson Glow) */
+.btn-delete {
+  color: #ff6b6b;
+  border: 1px solid rgba(255, 107, 107, 0.4);
+}
+
+.btn-delete:hover {
+  background: #ff6b6b;
+  color: white;
+  transform: translateY(-3px);
+  box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);
+  border-color: #ff6b6b;
+}
+
+/* Active State (When clicked) */
+.btn-custom:active {
+  transform: translateY(0);
+}
+
+.stat-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(129, 140, 248, 0.2);
+  /* Faint indigo border */
+  border-radius: 16px;
+  padding: 8px 5px;
+  text-align: center;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+}
+
+.stat-card:hover {
+  background: rgba(129, 140, 248, 0.1);
+  /* Subtle indigo tint */
+  border-color: #818cf8;
+  /* Bright indigo border */
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3),
+    0 0 15px rgba(129, 140, 248, 0.2);
+}
+
+/* .stat-icon {
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+  display: block;
+} */
+
+.stat-label {
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.65rem;
+  color: #818cf8;
+  /* Indigo label */
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.stat-value {
+  font-size: 1rem;
+  font-family: 'Inter', sans-serif;
+  /* Or your preferred clean font */
+}
+
+.genre-badge {
+  background-color: rgba(129, 140, 248, 0.15);
+  /* Light indigo tint */
+  color: #818cf8;
+  /* Indigo text */
+  border: 1px solid rgba(129, 140, 248, 0.4);
+  padding: 8px 20px;
+  /* Increased height and width */
+  border-radius: 50px;
+  /* Capsule shape */
+  font-size: 0.95rem;
+  /* Slightly bigger font */
+  font-weight: 500;
+  transition: all 0.3s ease;
+  cursor: default;
+  display: inline-block;
+}
+
+.genre-badge:hover {
+  background-color: #818cf8;
+  /* Fill background on hover */
+  color: white;
+  /* Text turns white */
+  transform: translateY(-3px) scale(1.05);
+  /* Moves up and grows */
+
+  /* Glowing Effect */
+  box-shadow: 0 0 15px rgba(129, 140, 248, 0.6);
+  border-color: #818cf8;
+}
+
+/* COMBINED POSTER STYLE */
+.poster-img {
+  /* Dimensions */
+  width: 100%;
+  max-width: 350px;
+  /* Slightly wider to match the height */
+  height: 500px;
+  object-fit: cover;
+
+  /* Initial State */
+  border-radius: 20px;
+  /* border: 1px solid rgba(255, 255, 255, 0.1); */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+
+  /* Animation */
+  transition: all 0.4s ease-in-out;
+  cursor: pointer;
+
+  /* Important: ensures the shadow isn't cut off by parent containers */
+  position: relative;
+  z-index: 1;
+}
+
+.poster-img:hover {
+  /* Movement & Size */
+  transform: translateY(-15px) scale(1.09);
+
+  /* Glow Effect */
+  box-shadow: 0 0 30px 10px rgba(129, 140, 248, 0.6);
+
+  /* Visual Pop */
+  filter: brightness(1.1);
+  z-index: 10;
+  /* Ensures it stays on top of other elements while hovering */
+}
+
 .details-page {
+  margin-top: 16px;
   min-height: 100vh;
   background-size: cover;
   background-position: center;
   position: relative;
 }
-.info-card {
+
+/* .info-card {
   background: rgba(255, 255, 255, 0.08);
   border-radius: 15px;
   padding: 15px;
@@ -28,8 +221,8 @@
 .info-card h6 {
   margin-top: 5px;
   font-weight: bold;
-}
-.meta-cards {
+} */
+/* .meta-cards {
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
@@ -47,29 +240,30 @@
 .meta-card .label {
   display: block;
   font-size: 0.75rem;
-  color: #aaa;
-}
+  color: #aaa; */
+/* } */
 
-.meta-card .value {
+/* .meta-card .value {
   font-size: 1rem;
   font-weight: bold;
-}
+} */
 .overlay {
-  background: linear-gradient(
-    to right,
-    rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.4)
-  );
+  background: linear-gradient(to right,
+      rgba(0, 0, 0, 0.9),
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.6),
+      /* rgba(0, 0, 0, 0.2), */
+      rgba(0, 0, 0, 0.3));
   min-height: 100vh;
   color: white;
 }
 
-.poster-img {
+/* .poster-img {
   width: 100%;
   max-width: 320px;
   border-radius: 15px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.7);
-}
+} */
 
 .movie-title {
   font-size: 2.8rem;
@@ -101,6 +295,7 @@
   color: #ddd;
   max-width: 600px;
 }
+
 /* .details-page {
   min-height: 100vh;
   background-size: cover;
