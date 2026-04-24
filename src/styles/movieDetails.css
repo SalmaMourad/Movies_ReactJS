@@ -4,6 +4,109 @@
   background-position: center;
   position: relative;
 }
+.info-card {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 15px;
+  padding: 15px;
+  color: white;
+
+  backdrop-filter: blur(8px);
+  transition: 0.3s;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.info-card:hover {
+  transform: translateY(-3px);
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.info-card small {
+  color: #bbb;
+  font-size: 0.8rem;
+}
+
+.info-card h6 {
+  margin-top: 5px;
+  font-weight: bold;
+}
+.meta-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin: 20px 0;
+}
+
+.meta-card {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 10px 15px;
+  border-radius: 10px;
+  min-width: 120px;
+  backdrop-filter: blur(5px);
+}
+
+.meta-card .label {
+  display: block;
+  font-size: 0.75rem;
+  color: #aaa;
+}
+
+.meta-card .value {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.overlay {
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.9),
+    rgba(0, 0, 0, 0.4)
+  );
+  min-height: 100vh;
+  color: white;
+}
+
+.poster-img {
+  width: 100%;
+  max-width: 320px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.7);
+}
+
+.movie-title {
+  font-size: 2.8rem;
+  font-weight: bold;
+}
+
+.tagline {
+  font-style: italic;
+  color: #ccc;
+  margin-bottom: 10px;
+}
+
+.meta {
+  display: flex;
+  gap: 20px;
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+.meta-secondary {
+  display: flex;
+  gap: 20px;
+  font-size: 0.95rem;
+  color: #bbb;
+}
+
+.overview {
+  line-height: 1.7;
+  color: #ddd;
+  max-width: 600px;
+}
+/* .details-page {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
 
 .overlay {
     background: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.4));
@@ -40,4 +143,4 @@
 }
 .genres {
   margin-top: 20px;
-}
+} */

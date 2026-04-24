@@ -1,0 +1,665 @@
+{
+  "movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "belongs_to_collection": {
+        "id": 1434561,
+        "name": "The Super Mario Collection",
+        "poster_path": "/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
+        "backdrop_path": "/hX6DycbhqpkHuYD5ia4YeQQ2RgV.jpg"
+      },
+      "budget": 110000000,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ],
+      "homepage": "https://www.thesupermariogalaxymovie.com",
+      "id": "1226863",
+      "imdb_id": "tt28650488",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "The Super Mario Galaxy Movie",
+      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "popularity": 743.5165,
+      "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "production_companies": [
+        {
+          "id": 6704,
+          "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+          "name": "Illumination",
+          "origin_country": "US"
+        },
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2026-04-01",
+      "revenue": 747400000,
+      "runtime": 98,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "The galaxy awaits.",
+      "title": "The Super Mario Galaxy Movie",
+      "video": false,
+      "vote_average": "7.756",
+      "vote_count": 537
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+      "belongs_to_collection": {
+        "id": 86311,
+        "name": "Avengers Collection"
+      },
+      "budget": 300000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "homepage": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+      "id": "3",
+      "imdb_id": "tt4154756",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Avengers: Infinity War",
+      "overview": "The Avengers face Thanos.As Thanos sets about his quest for finding the infinity stones and carrying out his twisted scheme, the Avengers join forces with their allies to stop him from causing chaos and destruction.\nThe Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "popularity": 600,
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "USA"
+        }
+      ],
+      "release_date": "2018-04-27",
+      "revenue": 2048359754,
+      "runtime": 149,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en"
+        }
+      ],
+      "status": "Released",
+      "tagline": "An entire universe.",
+      "title": "Avengers: Infinity War",
+      "video": false,
+      "vote_average": "9.5",
+      "vote_count": 35000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+      "budget": 200000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "Sci-Fi"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "id": "83533",
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Jake Sully and Neytiri face a new threat on Pandora...\nAvatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "popularity": 295.9826,
+      "poster_path": "/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+      "release_date": "2025-12-17",
+      "runtime": 140,
+      "status": "Released",
+      "title": "Avatar: Fire and Ash",
+      "vote_average": "7.8",
+      "vote_count": 2660
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hA6hldpG0dRAnC7X2z9Yb6P5FzL.jpg",
+      "belongs_to_collection": {
+        "id": 86311,
+        "name": "Avengers Collection",
+        "poster_path": "/qJawKUQcIBha507UahUlX0keOT7.jpg",
+        "backdrop_path": "/zuW6fOiusv4X9nnW3paHGfXcSll.jpg"
+      },
+      "budget": 220000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "homepage": "https://www.marvel.com/movies/the-avengers",
+      "id": "1",
+      "imdb_id": "tt0848228",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "The Avengers",
+      "overview": "Earth's mightiest heroes must come together to stop Loki and his alien army.",
+      "popularity": 500,
+      "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2012-05-04",
+      "revenue": 1518812988,
+      "runtime": 143,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Some assembly required.",
+      "title": "The Avengers",
+      "video": false,
+      "vote_average": "6",
+      "vote_count": 30000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8pg4mbBUaA9k8j9uZq1Zr8n3v2k.jpg",
+      "belongs_to_collection": {
+        "id": 86311,
+        "name": "Avengers Collection"
+      },
+      "budget": 250000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": "2",
+      "imdb_id": "tt2395427",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Avengers: Age of Ultron",
+      "overview": "The Avengers must stop Ultron.",
+      "popularity": 480,
+      "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "USA"
+        }
+      ],
+      "release_date": "2015-05-01",
+      "revenue": 1405403694,
+      "runtime": 141,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en"
+        }
+      ],
+      "status": "Released",
+      "tagline": "A new age begins.",
+      "title": "Avengers: Age of Ultron",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 25000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "belongs_to_collection": {
+        "id": 86311,
+        "name": "Avengers Collection"
+      },
+      "budget": 356000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": "4",
+      "imdb_id": "tt4154796",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Avengers: Endgame",
+      "overview": "Final battle against Thanos.",
+      "popularity": 700,
+      "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "USA"
+        }
+      ],
+      "release_date": "2019-04-26",
+      "revenue": 2797800564,
+      "runtime": 181,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en"
+        }
+      ],
+      "status": "Released",
+      "tagline": "The end.",
+      "title": "Avengers: Endgame",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 40000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "belongs_to_collection": null,
+      "budget": 140000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": "5",
+      "imdb_id": "tt0371746",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Iron Man",
+      "overview": "Tony Stark becomes Iron Man.",
+      "popularity": 450,
+      "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "USA"
+        }
+      ],
+      "release_date": "2008-05-02",
+      "revenue": 585000000,
+      "runtime": 126,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Heroes aren't born. They're built.",
+      "title": "Iron Man",
+      "video": false,
+      "vote_average": "5.9",
+      "vote_count": 20000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+      "belongs_to_collection": null,
+      "budget": 180000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": "6",
+      "imdb_id": "tt0800369",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Thor",
+      "overview": "The god of thunder is banished to Earth.",
+      "popularity": 430,
+      "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "USA"
+        }
+      ],
+      "release_date": "2011-05-06",
+      "revenue": 449000000,
+      "runtime": 115,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Courage is immortal.",
+      "title": "Thor",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 18000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+      "belongs_to_collection": null,
+      "budget": 140000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": "7",
+      "imdb_id": "tt0458339",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Captain America: The First Avenger",
+      "overview": "Steve Rogers becomes Captain America.",
+      "popularity": 420,
+      "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "USA"
+        }
+      ],
+      "release_date": "2011-07-22",
+      "revenue": 370000000,
+      "runtime": 124,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en"
+        }
+      ],
+      "status": "Released",
+      "tagline": "A hero is born.",
+      "title": "Captain America: The First Avenger",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 19000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg",
+      "belongs_to_collection": null,
+      "budget": 170000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": "8",
+      "imdb_id": "tt1825683",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Black Panther",
+      "overview": "T'Challa becomes king of Wakanda.",
+      "popularity": 460,
+      "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "USA"
+        }
+      ],
+      "release_date": "2018-02-16",
+      "revenue": 1347000000,
+      "runtime": 134,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Wakanda forever.",
+      "title": "Black Panther",
+      "video": false,
+      "vote_average": "6.4",
+      "vote_count": 21000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg",
+      "belongs_to_collection": null,
+      "budget": 160000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": "9",
+      "imdb_id": "tt3896198",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 2",
+      "overview": "Peter Parker balances life as a high school student and Spider-Man.\n\n",
+      "popularity": 440,
+      "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "USA"
+        }
+      ],
+      "release_date": "2017-05-05",
+      "revenue": 863000000,
+      "runtime": 136,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Obviously.",
+      "title": "Spider-Man: Homecoming",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 20000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "belongs_to_collection": null,
+      "budget": 200000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": "10",
+      "imdb_id": "tt2250912",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Spider-Man: Homecoming",
+      "overview": "The Guardians struggle to keep their newfound family together.",
+      "popularity": 470,
+      "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "production_companies": [
+        {
+          "id": 420,
+          "name": "Marvel Studios"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "USA"
+        }
+      ],
+      "release_date": "2017-07-07",
+      "revenue": 880000000,
+      "runtime": 133,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Homework can wait.",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 21000
+    },
+    {
+      "title": "m",
+      "overview": "mmmmmmmmmmmmm",
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "backdrop_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "vote_average": "5",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "release_date": "2026-04-10",
+      "runtime": "200",
+      "status": "Upcoming",
+      "tagline": "An entire universe.",
+      "language": "en",
+      "id": "raLPiJAEbJg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

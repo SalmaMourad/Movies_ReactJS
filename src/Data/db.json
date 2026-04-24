@@ -3,181 +3,164 @@
     {
       "adult": false,
       "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "belongs_to_collection": {
-        "id": 1434561,
-        "name": "The Super Mario Collection",
-        "poster_path": "/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
-        "backdrop_path": "/hX6DycbhqpkHuYD5ia4YeQQ2RgV.jpg"
-      },
-      "budget": 110000000,
       "genres": [
         {
-          "id": 10751,
+          "id": 0,
           "name": "Family"
         },
         {
-          "id": 35,
+          "id": 1,
           "name": "Comedy"
         },
         {
-          "id": 12,
+          "id": 2,
           "name": "Adventure"
         },
         {
-          "id": 14,
+          "id": 3,
           "name": "Fantasy"
         },
         {
-          "id": 16,
+          "id": 4,
           "name": "Animation"
+        },
+        {
+          "id": 5,
+          "name": "Thriller"
         }
       ],
-      "homepage": "https://www.thesupermariogalaxymovie.com",
       "id": "1226863",
-      "imdb_id": "tt28650488",
-      "origin_country": [
-        "US"
-      ],
+      "title": "The Super Mario Galaxy Movie",
       "original_language": "en",
       "original_title": "The Super Mario Galaxy Movie",
       "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "popularity": 743.5165,
+      "popularity": 650.7446,
       "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "production_companies": [
-        {
-          "id": 6704,
-          "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
-          "name": "Illumination",
-          "origin_country": "US"
-        },
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
       "release_date": "2026-04-01",
-      "revenue": 747400000,
-      "runtime": 98,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "The galaxy awaits.",
-      "title": "The Super Mario Galaxy Movie",
       "video": false,
-      "vote_average": "7.756",
-      "vote_count": 537
+      "vote_average": 6.75,
+      "vote_count": 572,
+      "runtime": "118"
     },
     {
       "adult": false,
-      "backdrop_path": "/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
-      "belongs_to_collection": {
-        "id": 86311,
-        "name": "Avengers Collection"
-      },
-      "budget": 300000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "Action"
-        }
-      ],
-      "homepage": "",
-      "id": "3",
-      "imdb_id": "tt4154756",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "Avengers: Infinity War",
-      "overview": "The Avengers face Thanos.As Thanos sets about his quest for finding the infinity stones and carrying out his twisted scheme, the Avengers join forces with their allies to stop him from causing chaos and destruction.\nThe Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
-      "popularity": 600,
-      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-      "production_companies": [
-        {
-          "id": 420,
-          "name": "Marvel Studios"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "USA"
-        }
-      ],
-      "release_date": "2018-04-27",
-      "revenue": 2048359754,
-      "runtime": 149,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en"
-        }
-      ],
-      "status": "Released",
-      "tagline": "An entire universe.",
-      "title": "Avengers: Infinity War",
-      "video": false,
-      "vote_average": "9.5",
-      "vote_count": 35000
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-      "budget": 200000000,
+      "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
       "genres": [
         {
           "id": 878,
-          "name": "Sci-Fi"
+          "name": "Science Fiction"
         },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "id": "24428",
+      "title": "The Avengers",
+      "original_language": "en",
+      "original_title": "The Avengers",
+      "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "popularity": 56.3965,
+      "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "release_date": "2012-04-25",
+      "video": false,
+      "vote_average": 8.005,
+      "vote_count": 37378
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "genres": [
+        {
+          "id": 0,
+          "name": "Adventure"
+        },
+        {
+          "id": 1,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 2,
+          "name": "Action"
+        }
+      ],
+      "id": "299534",
+      "title": "Avengers: Endgame",
+      "original_language": "en",
+      "original_title": "Avengers: Endgame",
+      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "popularity": 39.9831,
+      "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "release_date": "2019-04-24",
+      "video": false,
+      "vote_average": 8.234,
+      "vote_count": 27540
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "genres": [
         {
           "id": 12,
           "name": "Adventure"
         },
         {
-          "id": 14,
-          "name": "Fantasy"
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
         }
       ],
-      "id": "83533",
+      "id": "299536",
+      "title": "Avengers: Infinity War",
       "original_language": "en",
-      "original_title": "Avatar: Fire and Ash",
-      "overview": "Jake Sully and Neytiri face a new threat on Pandora...\nAvatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "popularity": 295.9826,
-      "poster_path": "/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-      "release_date": "2025-12-17",
-      "runtime": 140,
-      "status": "Released",
-      "title": "Avatar: Fire and Ash",
-      "vote_average": 7.7,
-      "vote_count": 2660
+      "original_title": "Avengers: Infinity War",
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "popularity": 47.8712,
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "release_date": "2018-04-25",
+      "video": false,
+      "vote_average": 8.233,
+      "vote_count": 31775
     },
     {
       "adult": false,
-      "backdrop_path": "/hA6hldpG0dRAnC7X2z9Yb6P5FzL.jpg",
-      "belongs_to_collection": {
-        "id": 86311,
-        "name": "Avengers Collection",
-        "poster_path": "/qJawKUQcIBha507UahUlX0keOT7.jpg",
-        "backdrop_path": "/zuW6fOiusv4X9nnW3paHGfXcSll.jpg"
-      },
-      "budget": 220000000,
+      "backdrop_path": "/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "id": "1003596",
+      "title": "Avengers: Doomsday",
+      "original_language": "en",
+      "original_title": "Avengers: Doomsday",
+      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+      "popularity": 23.1289,
+      "poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "release_date": "2026-12-16",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
       "genres": [
         {
           "id": 28,
@@ -192,452 +175,737 @@
           "name": "Science Fiction"
         }
       ],
-      "homepage": "https://www.marvel.com/movies/the-avengers",
-      "id": "1",
-      "imdb_id": "tt0848228",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "The Avengers",
-      "overview": "Earth's mightiest heroes must come together to stop Loki and his alien army.",
-      "popularity": 500,
-      "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-      "production_companies": [
-        {
-          "id": 420,
-          "name": "Marvel Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "release_date": "2012-05-04",
-      "revenue": 1518812988,
-      "runtime": 143,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Some assembly required.",
-      "title": "The Avengers",
-      "video": false,
-      "vote_average": "6",
-      "vote_count": 30000
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8pg4mbBUaA9k8j9uZq1Zr8n3v2k.jpg",
-      "belongs_to_collection": {
-        "id": 86311,
-        "name": "Avengers Collection"
-      },
-      "budget": 250000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "Action"
-        }
-      ],
-      "homepage": "",
-      "id": "2",
-      "imdb_id": "tt2395427",
-      "origin_country": [
-        "US"
-      ],
+      "id": "99861",
+      "title": "Avengers: Age of Ultron",
       "original_language": "en",
       "original_title": "Avengers: Age of Ultron",
-      "overview": "The Avengers must stop Ultron.",
-      "popularity": 480,
+      "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth's Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+      "popularity": 21.4488,
       "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
-      "production_companies": [
-        {
-          "id": 420,
-          "name": "Marvel Studios"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "USA"
-        }
-      ],
-      "release_date": "2015-05-01",
-      "revenue": 1405403694,
-      "runtime": 141,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en"
-        }
-      ],
-      "status": "Released",
-      "tagline": "A new age begins.",
-      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-04-22",
       "video": false,
-      "vote_average": 7.3,
-      "vote_count": 25000
+      "vote_average": 7.27,
+      "vote_count": 24300
     },
     {
       "adult": false,
-      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "belongs_to_collection": {
-        "id": 86311,
-        "name": "Avengers Collection"
-      },
-      "budget": 356000000,
+      "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
       "genres": [
+        {
+          "id": 10749,
+          "name": "Romance"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "id": "1523145",
+      "title": "Your Heart Will Be Broken",
+      "original_language": "ru",
+      "original_title": "Твоё сердце будет разбито",
+      "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+      "popularity": 378.6976,
+      "poster_path": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+      "release_date": "2026-03-26",
+      "video": false,
+      "vote_average": 6.93,
+      "vote_count": 71
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "id": "1198994",
+      "title": "Send Help",
+      "original_language": "en",
+      "original_title": "Send Help",
+      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "popularity": 309.1211,
+      "poster_path": "/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+      "release_date": "2026-01-22",
+      "video": false,
+      "vote_average": 7.041,
+      "vote_count": 1056
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "id": "980431",
+      "title": "Avatar Aang: The Last Airbender",
+      "original_language": "en",
+      "original_title": "Avatar Aang: The Last Airbender",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "popularity": 294.0381,
+      "poster_path": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+      "release_date": "2026-10-09",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "id": "83533",
+      "title": "Avatar: Fire and Ash",
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "popularity": 262.7902,
+      "poster_path": "/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+      "release_date": "2025-12-17",
+      "video": false,
+      "vote_average": 7.373,
+      "vote_count": 2686
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "id": "1613798",
+      "title": "Vengeance",
+      "original_language": "es",
+      "original_title": "Venganza",
+      "overview": "The brutal murder of the wife of \"Toro,\" a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+      "popularity": 248.2392,
+      "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+      "release_date": "2026-02-26",
+      "video": false,
+      "vote_average": 6.713,
+      "vote_count": 68
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "id": "687163",
+      "title": "Project Hail Mary",
+      "original_language": "en",
+      "original_title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "popularity": 213.1689,
+      "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "release_date": "2026-03-15",
+      "video": false,
+      "vote_average": 8.224,
+      "vote_count": 1666
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ],
+      "id": "1470130",
+      "title": "The Mortuary Assistant",
+      "original_language": "en",
+      "original_title": "The Mortuary Assistant",
+      "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
+      "popularity": 198.9187,
+      "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+      "release_date": "2026-02-13",
+      "video": false,
+      "vote_average": 5.449,
+      "vote_count": 78
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "id": "1290821",
+      "title": "Shelter",
+      "original_language": "en",
+      "original_title": "Shelter",
+      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "popularity": 186.1386,
+      "poster_path": "/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "release_date": "2026-01-28",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 583
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "id": "1327819",
+      "title": "Hoppers",
+      "original_language": "en",
+      "original_title": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "popularity": 182.0789,
+      "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "release_date": "2026-03-04",
+      "video": false,
+      "vote_average": 7.585,
+      "vote_count": 500
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ],
+      "id": "1304313",
+      "title": "Lee Cronin's The Mummy",
+      "original_language": "en",
+      "original_title": "Lee Cronin's The Mummy",
+      "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+      "popularity": 166.7205,
+      "poster_path": "/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+      "release_date": "2026-04-15",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 126
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "id": "1084577",
+      "title": "Balls Up",
+      "original_language": "en",
+      "original_title": "Balls Up",
+      "overview": "Two marketing executives go \"balls out\" and pitch a bold full-coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+      "popularity": 160.7202,
+      "poster_path": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+      "release_date": "2026-04-15",
+      "video": false,
+      "vote_average": 5.668,
+      "vote_count": 110
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
+      "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "id": "840464",
+      "title": "Greenland 2: Migration",
+      "original_language": "en",
+      "original_title": "Greenland 2: Migration",
+      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "popularity": 156.953,
+      "poster_path": "/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "release_date": "2026-01-07",
+      "video": false,
+      "vote_average": 6.462,
+      "vote_count": 897
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "id": "1290417",
+      "title": "Thrash",
+      "original_language": "en",
+      "original_title": "Thrash",
+      "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+      "popularity": 153.9028,
+      "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+      "release_date": "2026-04-10",
+      "video": false,
+      "vote_average": 5.967,
+      "vote_count": 389
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ],
+      "id": "1352874",
+      "title": "The Crucifix: Blood of the Exorcist",
+      "original_language": "en",
+      "original_title": "The Crucifix: Blood of the Exorcist",
+      "overview": "A gruesome discovery in the grounds of their new home plunges a young couple into a maelstrom of spiritual possession, pagan rituals, Viking battles, and violent revenge.",
+      "popularity": 143.4088,
+      "poster_path": "/uLXxpWRfoIPfB2fwM8hsAMIjSWf.jpg",
+      "release_date": "2025-01-09",
+      "video": false,
+      "vote_average": 6.571,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "id": "1641319",
+      "title": "Sniper: No Nation",
+      "original_language": "en",
+      "original_title": "Sniper: No Nation",
+      "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
+      "popularity": 135.2849,
+      "poster_path": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+      "release_date": "2026-04-07",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 33
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "id": "1297842",
+      "title": "GOAT",
+      "original_language": "en",
+      "original_title": "GOAT",
+      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "popularity": 132.4376,
+      "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "release_date": "2026-02-11",
+      "video": false,
+      "vote_average": 7.909,
+      "vote_count": 424
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
+      "genres": [
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "id": "1171145",
+      "title": "Crime 101",
+      "original_language": "en",
+      "original_title": "Crime 101",
+      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+      "popularity": 132.0621,
+      "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+      "release_date": "2026-02-11",
+      "video": false,
+      "vote_average": 6.973,
+      "vote_count": 753
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "id": "1010755",
+      "title": "The Strangers: Chapter 3",
+      "original_language": "en",
+      "original_title": "The Strangers: Chapter 3",
+      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they're far from strangers now.",
+      "popularity": 131.2846,
+      "poster_path": "/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+      "release_date": "2026-02-05",
+      "video": false,
+      "vote_average": 5.672,
+      "vote_count": 116
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "id": "1311031",
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "popularity": 129.1631,
+      "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+      "release_date": "2025-07-18",
+      "video": false,
+      "vote_average": 7.684,
+      "vote_count": 808
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rytc6Lf4447C0CDncwFa4gxe0vY.jpg",
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "id": "1003598",
+      "title": "Avengers: Secret Wars",
+      "original_language": "en",
+      "original_title": "Avengers: Secret Wars",
+      "overview": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.",
+      "popularity": 7.4301,
+      "poster_path": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+      "release_date": "2027-12-16",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Al127H6f1RXpESdg0MGNL2g8mzO.jpg",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "id": "1359227",
+      "title": "LEGO Marvel Avengers: Mission Demolition",
+      "original_language": "en",
+      "original_title": "LEGO Marvel Avengers: Mission Demolition",
+      "overview": "A young, aspiring hero and superhero fan inadvertently unleashes a powerful new villain looking to rid the world of the Avengers.",
+      "popularity": 4.1084,
+      "poster_path": "/s3qM33JHOntz2D7o6FGRf5yuI1v.jpg",
+      "release_date": "2024-10-17",
+      "video": false,
+      "vote_average": 6.48,
+      "vote_count": 125
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oFSQEG1lJTTISj3QKB7cJ9ANkFw.jpg",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "id": "1154598",
+      "title": "LEGO Marvel Avengers: Code Red",
+      "original_language": "en",
+      "original_title": "LEGO Marvel Avengers: Code Red",
+      "overview": "The Avengers gather to celebrate their latest victory, but their celebration is quickly interrupted by the mysterious disappearance of Black Widow's father, Red Guardian. As the Avengers investigate, they discover that Red Guardian isn't the only one missing when they meet a dangerous new foe quite unlike anything they've ever encountered before.",
+      "popularity": 3.4697,
+      "poster_path": "/rDzig50dj7VpLwJ7SThbamETK1G.jpg",
+      "release_date": "2023-10-27",
+      "video": false,
+      "vote_average": 6.529,
+      "vote_count": 156
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vqQhjCeXbGDz8IeB27IPk0alfKA.jpg",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
         {
           "id": 28,
           "name": "Action"
         }
       ],
-      "homepage": "",
-      "id": "4",
-      "imdb_id": "tt4154796",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "Avengers: Endgame",
-      "overview": "Final battle against Thanos.",
-      "popularity": 700,
-      "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
-      "production_companies": [
-        {
-          "id": 420,
-          "name": "Marvel Studios"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "USA"
-        }
-      ],
-      "release_date": "2019-04-26",
-      "revenue": 2797800564,
-      "runtime": 181,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en"
-        }
-      ],
-      "status": "Released",
-      "tagline": "The end.",
-      "title": "Avengers: Endgame",
+      "id": "257346",
+      "title": "Avengers Confidential: Black Widow & Punisher",
+      "original_language": "ja",
+      "original_title": "アベンジャーズ コンフィデンシャル：ブラック・ウィドウ ＆ パニッシャー",
+      "overview": "When the Punisher takes out a black-market weapons dealer, he stumbles upon a far-reaching terrorist plot devised by a group known as Leviathan.",
+      "popularity": 3.6201,
+      "poster_path": "/wJcyYVRPZDOZOD2w0r2R6wuZqqN.jpg",
+      "release_date": "2014-04-19",
       "video": false,
-      "vote_average": 8.7,
-      "vote_count": 40000
+      "vote_average": 6.347,
+      "vote_count": 290
     },
     {
       "adult": false,
-      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "belongs_to_collection": null,
-      "budget": 140000000,
+      "backdrop_path": "/hoJpIYgFPc75NhaSWPNUeMFPMy1.jpg",
       "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
         {
           "id": 28,
           "name": "Action"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
         }
       ],
-      "homepage": "",
-      "id": "5",
-      "imdb_id": "tt0371746",
-      "origin_country": [
-        "US"
-      ],
+      "id": "14611",
+      "title": "Ultimate Avengers 2mnm,m",
       "original_language": "en",
-      "original_title": "Iron Man",
-      "overview": "Tony Stark becomes Iron Man.",
-      "popularity": 450,
-      "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
-      "production_companies": [
-        {
-          "id": 420,
-          "name": "Marvel Studios"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "USA"
-        }
-      ],
-      "release_date": "2008-05-02",
-      "revenue": 585000000,
-      "runtime": 126,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Heroes aren't born. They're built.",
-      "title": "Iron Man",
+      "original_title": "Ultimate Avengers 2",
+      "overview": "Mysterious Wakanda lies in the darkest heart of Africa, unknown to most of the world. An isolated land hidden behind closed borders, fiercely protected by its young king: Black Panther. But when brutal alien invaders attack, the threat leaves Black Panther with no option but to go against the sacred decrees of his people and ask for help from outsiders.",
+      "popularity": 2.5065,
+      "poster_path": "/sMFyYZR9krqcQC99G6jnb10Zv4P.jpg",
+      "release_date": "2006-08-08",
       "video": false,
-      "vote_average": "5.9",
-      "vote_count": 20000
+      "vote_average": 6.782,
+      "vote_count": 319
     },
     {
-      "adult": false,
-      "backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
-      "belongs_to_collection": null,
-      "budget": 180000000,
+      "title": "s",
+      "overview": "cccccccccccccccccccccccccc",
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "backdrop_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "vote_average": "8",
       "genres": [
-        {
-          "id": 28,
-          "name": "Action"
-        }
+        "Sci-Fi",
+        "Adventure"
       ],
-      "homepage": "",
-      "id": "6",
-      "imdb_id": "tt0800369",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "Thor",
-      "overview": "The god of thunder is banished to Earth.",
-      "popularity": 430,
-      "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
-      "production_companies": [
-        {
-          "id": 420,
-          "name": "Marvel Studios"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "USA"
-        }
-      ],
-      "release_date": "2011-05-06",
-      "revenue": 449000000,
-      "runtime": 115,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en"
-        }
-      ],
+      "release_date": "2026-04-25",
+      "runtime": "200",
       "status": "Released",
-      "tagline": "Courage is immortal.",
-      "title": "Thor",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 18000
+      "tagline": "An entire universe.",
+      "language": "en",
+      "id": "l_6QGmELXsQ"
     },
     {
-      "adult": false,
-      "backdrop_path": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
-      "belongs_to_collection": null,
-      "budget": 140000000,
+      "title": "c",
+      "overview": "vvvvvvvvv\nmmmmmmmmmmmmmmnjhhhhhhhhhhhhjjjjjjjjjjjjjjjjjjjjjjjjj\nvvvvvvvvv\nmmmmmmmmmmmmmmnjhhhhhhhhhhhhjjjjjjjjjjjjjjjjjjjjjjjjj",
+      "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "vote_average": "6.75",
       "genres": [
         {
-          "id": 28,
+          "id": 0,
           "name": "Action"
-        }
-      ],
-      "homepage": "",
-      "id": "7",
-      "imdb_id": "tt0458339",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "Captain America: The First Avenger",
-      "overview": "Steve Rogers becomes Captain America.",
-      "popularity": 420,
-      "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
-      "production_companies": [
+        },
         {
-          "id": 420,
-          "name": "Marvel Studios"
-        }
-      ],
-      "production_countries": [
+          "id": 1,
+          "name": "Horror"
+        },
         {
-          "iso_3166_1": "US",
-          "name": "USA"
-        }
-      ],
-      "release_date": "2011-07-22",
-      "revenue": 370000000,
-      "runtime": 124,
-      "spoken_languages": [
+          "id": 2,
+          "name": "Romance"
+        },
         {
-          "english_name": "English",
-          "iso_639_1": "en"
+          "id": 3,
+          "name": "Comedy"
+        },
+        {
+          "id": 4,
+          "name": "Adventure"
         }
       ],
+      "release_date": "2026-03-30",
+      "runtime": "200",
       "status": "Released",
-      "tagline": "A hero is born.",
-      "title": "Captain America: The First Avenger",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 19000
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg",
-      "belongs_to_collection": null,
-      "budget": 170000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "Action"
-        }
-      ],
-      "homepage": "",
-      "id": "8",
-      "imdb_id": "tt1825683",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "Black Panther",
-      "overview": "T'Challa becomes king of Wakanda.",
-      "popularity": 460,
-      "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
-      "production_companies": [
-        {
-          "id": 420,
-          "name": "Marvel Studios"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "USA"
-        }
-      ],
-      "release_date": "2018-02-16",
-      "revenue": 1347000000,
-      "runtime": 134,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Wakanda forever.",
-      "title": "Black Panther",
-      "video": false,
-      "vote_average": "6.4",
-      "vote_count": 21000
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg",
-      "belongs_to_collection": null,
-      "budget": 160000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "Action"
-        }
-      ],
-      "homepage": "",
-      "id": "9",
-      "imdb_id": "tt3896198",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "Guardians of the Galaxy Vol. 2",
-      "overview": "The Guardians struggle to keep their newfound family together.",
-      "popularity": 440,
-      "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
-      "production_companies": [
-        {
-          "id": 420,
-          "name": "Marvel Studios"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "USA"
-        }
-      ],
-      "release_date": "2017-05-05",
-      "revenue": 863000000,
-      "runtime": 136,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Obviously.",
-      "title": "Guardians of the Galaxy Vol. 2",
-      "video": false,
-      "vote_average": 7.6,
-      "vote_count": 20000
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
-      "belongs_to_collection": null,
-      "budget": 200000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "Action"
-        }
-      ],
-      "homepage": "",
-      "id": "10",
-      "imdb_id": "tt2250912",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "Spider-Man: Homecoming",
-      "overview": "Peter Parker balances life as a high school student and Spider-Man.",
-      "popularity": 470,
-      "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-      "production_companies": [
-        {
-          "id": 420,
-          "name": "Marvel Studios"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "USA"
-        }
-      ],
-      "release_date": "2017-07-07",
-      "revenue": 880000000,
-      "runtime": 133,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Homework can wait.",
-      "title": "Spider-Man: Homecoming",
-      "video": false,
-      "vote_average": 7.4,
-      "vote_count": 21000
+      "tagline": "An entire universe.",
+      "language": "en",
+      "id": "xFvs43PwS5Q"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
