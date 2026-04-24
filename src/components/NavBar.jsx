@@ -26,8 +26,12 @@ const NavBar = () => {
               About
             </Nav.Link>
 
-            <Nav.Link as={NavLink} to="/contact" className="mx-2">
+            {/* <Nav.Link as={NavLink} to="/contact" className="mx-2">
               Contact
+            </Nav.Link> */}
+            
+            <Nav.Link as={NavLink} to="/auth" className="mx-2">
+              Login
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>

@@ -4,9 +4,9 @@ import { lazy } from "react";
 import Layout from "../pages/Layout";
 import { getMovies, getMovieById } from "../api/movieApi";
 import AddEditMovie from "../pages/AddEditMovie";
+import LoginSignUp from "../pages/LoginSignUp";
 const Home = lazy(() => import("../pages/Home"));
 const MovieDetails = lazy(() => import("../pages/MovieDetails"));
-const AddMovie = lazy(() => import("../pages/AddMovie"));
 
 export const router = createBrowserRouter([
   {
@@ -34,11 +34,13 @@ export const router = createBrowserRouter([
           fetch(`http://localhost:3001/movies/${params.id}`),
       },
       {
-        path:"about",
-        element:<About />,
-        
+        path: "about",
+        element: <About />,
+      },
+      {
+        path: "auth",
+        element: <LoginSignUp />,
       }
     ],
-
   },
 ]);
