@@ -5,11 +5,11 @@
       "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "genres": [
         {
-          "id": 878,
+          "id": 0,
           "name": "Science Fiction"
         },
         {
-          "id": 12,
+          "id": 1,
           "name": "Adventure"
         }
       ],
@@ -22,7 +22,7 @@
       "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "release_date": "2026-03-15",
       "video": false,
-      "vote_average": 8.224,
+      "vote_average": "8.324",
       "vote_count": 1666
     },
     {
@@ -122,50 +122,43 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "genres": [
-        {
-          "id": 0,
-          "name": "Adventure"
-        },
-        {
-          "id": 1,
-          "name": "Science Fiction"
-        },
-        {
-          "id": 2,
-          "name": "Action"
-        },
-        {
-          "id": 3,
-          "name": "Thriller"
-        }
-      ],
-      "id": "299534",
-      "title": "Avengers: Endgame",
-      "original_language": "en",
-      "original_title": "Avengers: Endgame",
-      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-      "popularity": 39.9831,
-      "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-      "release_date": "2019-04-24",
-      "video": false,
-      "vote_average": 8.234,
-      "vote_count": 27540,
-      "tagline": "The Avengers Final Round",
-      "runtime": "180",
-      "status": "Released"
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+      "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
       "genres": [
         {
           "id": 28,
           "name": "Action"
         },
         {
-          "id": 53,
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "id": "505642",
+      "title": "Black Panther: Wakanda Forever",
+      "original_language": "en",
+      "original_title": "Black Panther: Wakanda Forever",
+      "overview": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+      "popularity": 931.513,
+      "poster_path": "/vo9QISNKYtDN40VKfQkPxbMOO9j.jpg",
+      "release_date": "2022-11-09",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 4695
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+      "genres": [
+        {
+          "id": 0,
+          "name": "Action"
+        },
+        {
+          "id": 1,
           "name": "Thriller"
         }
       ],
@@ -183,32 +176,41 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "backdrop_path": "/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
       "genres": [
         {
-          "id": 12,
-          "name": "Adventure"
+          "id": 0,
+          "name": "Science Fiction"
         },
         {
-          "id": 28,
+          "id": 1,
           "name": "Action"
         },
         {
-          "id": 878,
-          "name": "Science Fiction"
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 3,
+          "name": "Sci-Fi"
+        },
+        {
+          "id": 4,
+          "name": "Horror"
         }
       ],
-      "id": "299536",
-      "title": "Avengers: Infinity War",
+      "id": "580489",
+      "title": "Venom: Carnage",
       "original_language": "en",
-      "original_title": "Avengers: Infinity War",
-      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-      "popularity": 47.8712,
-      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-      "release_date": "2018-04-25",
+      "original_title": "Venom: Let There Be Carnage",
+      "overview": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+      "popularity": 186.67,
+      "poster_path": "/ztoy8TiHu9qa22bW1DkhdNIzeF9.jpg",
+      "release_date": "2021-09-30",
       "video": false,
-      "vote_average": 8.233,
-      "vote_count": 31775
+      "vote_average": "7.9",
+      "vote_count": 8751,
+      "tagline": "Let There Be Carnage"
     },
     {
       "adult": false,
@@ -238,6 +240,35 @@
       "video": false,
       "vote_average": 7.041,
       "vote_count": 1056
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "genres": [
+        {
+          "id": 0,
+          "name": "Action"
+        },
+        {
+          "id": 1,
+          "name": "Adventure"
+        },
+        {
+          "id": 2,
+          "name": "Science Fiction"
+        }
+      ],
+      "id": "634649",
+      "title": "Spider-Man: No Way Home",
+      "original_language": "en",
+      "original_title": "Spider-Man: No Way Home",
+      "overview": "Peter Parker is unmasked and can no longer separate his normal life from the high stakes of being a superhero. When he asks Doctor Strange for help, things become more dangerous and he must discover what it truly means to be Spider-Man.",
+      "popularity": 398.217,
+      "poster_path": "/iNKf4D0AzOj9GLq8ZyG3WZaqibL.jpg",
+      "release_date": "2021-12-15",
+      "video": false,
+      "vote_average": "8.5",
+      "vote_count": 17267
     },
     {
       "adult": false,
@@ -292,6 +323,71 @@
       "video": false,
       "vote_average": 6.973,
       "vote_count": 753
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "genres": [
+        {
+          "id": 0,
+          "name": "Adventure"
+        },
+        {
+          "id": 1,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 2,
+          "name": "Action"
+        },
+        {
+          "id": 3,
+          "name": "Thriller"
+        }
+      ],
+      "id": "299534",
+      "title": "Avengers: Endgame",
+      "original_language": "en",
+      "original_title": "Avengers: Endgame",
+      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "popularity": 39.9831,
+      "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "release_date": "2019-04-24",
+      "video": false,
+      "vote_average": 8.234,
+      "vote_count": 27540,
+      "tagline": "The Avengers Final Round",
+      "runtime": "180",
+      "status": "Released"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "genres": [
+        {
+          "id": 0,
+          "name": "Adventure"
+        },
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Science Fiction"
+        }
+      ],
+      "id": "299536",
+      "title": "Avengers: Infinity War",
+      "original_language": "en",
+      "original_title": "Avengers: Infinity War",
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "popularity": 47.8712,
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "release_date": "2018-04-25",
+      "video": false,
+      "vote_average": "5",
+      "vote_count": 31775
     },
     {
       "adult": false,
@@ -365,15 +461,15 @@
       "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
       "genres": [
         {
-          "id": 878,
+          "id": 0,
           "name": "Science Fiction"
         },
         {
-          "id": 28,
+          "id": 1,
           "name": "Action"
         },
         {
-          "id": 12,
+          "id": 2,
           "name": "Adventure"
         }
       ],
@@ -386,7 +482,7 @@
       "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
       "release_date": "2012-04-25",
       "video": false,
-      "vote_average": 8.005,
+      "vote_average": "5",
       "vote_count": 37378
     },
     {
@@ -474,6 +570,490 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/3CxUndGhUcZdt1Zggjdb2HkLLQX.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "id": "640146",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "original_language": "en",
+      "original_title": "Ant-Man and the Wasp: Quantumania",
+      "overview": "Scott Lang and Hope Van Dyne, along with Hank Pym and Janet Van Dyne, explore the Quantum Realm, where they interact with strange new creatures and embark on an adventure that pushes them beyond the limits of what they thought possible.",
+      "popularity": 9200.005,
+      "poster_path": "/nA5otwVxAfpBP4PVgeuBk3qHcLY.jpg",
+      "release_date": "2023-02-15",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 2079
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7TUp4uKIaX9c2TAZLPwjty5A0EP.jpg",
+      "genres": [
+        {
+          "id": 0,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 1,
+          "name": "Adventure"
+        },
+        {
+          "id": 2,
+          "name": "Action"
+        }
+      ],
+      "id": "447365",
+      "title": "Guardians of the Galaxy: Volume 3",
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Volume 3",
+      "overview": "Still reeling from the loss of Gamora, Peter Quill must rally his team around him to defend the universe along with protecting one of their own.",
+      "popularity": 647.851,
+      "poster_path": "/72Rz9HSQWnPqwpa3qJzgiZ6WHh.jpg",
+      "release_date": "2023-05-03",
+      "video": false,
+      "vote_average": "6.2",
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+      "genres": [
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "id": "616037",
+      "title": "Thor: Love and Thunder",
+      "original_language": "en",
+      "original_title": "Thor: Love and Thunder",
+      "overview": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+      "popularity": 352.776,
+      "poster_path": "/yplCZnNHgMeGWEOa0e1bp6kfDOB.jpg",
+      "release_date": "2022-07-06",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 5862
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9lL3VVktfy8ny774XP00tJHXGvP.jpg",
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "id": "298618",
+      "title": "The Flash",
+      "original_language": "en",
+      "original_title": "The Flash",
+      "overview": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without superheroes, forcing him to race for his life in order to save the future.",
+      "popularity": 153.407,
+      "poster_path": "/1um4RgzHQ5r0pKPrQryPmqwk1iS.jpg",
+      "release_date": "2023-06-14",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vcNXzOfACCXZA7vb8SNde0LUC9o.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "id": "1068141",
+      "title": "Power Rangers: Once & Always",
+      "original_language": "en",
+      "original_title": "Mighty Morphin Power Rangers: Once & Always",
+      "overview": "Thirty years after Zordon founded the Mighty Morphin Power Rangers, the team faces a familiar threat from the past. In the midst of a global crisis, they are once again called to be the heroes the world needs.",
+      "popularity": 130.019,
+      "poster_path": "/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg",
+      "release_date": "2023-04-19",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 149
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/skauHPLA4so9PqOuu3jhWmiWnFd.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "id": "297802",
+      "title": "Aquaman",
+      "original_language": "en",
+      "original_title": "Aquaman",
+      "overview": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+      "popularity": 111.492,
+      "poster_path": "/pxMM3OJoVVkYFyj52YUIlN8fux.jpg",
+      "release_date": "2018-12-07",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 12588
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "id": "497698",
+      "title": "Black Widow",
+      "original_language": "en",
+      "original_title": "Black Widow",
+      "overview": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+      "popularity": 107.622,
+      "poster_path": "/gkyoYo9d6g98xjScnZwh3nL2Yfp.jpg",
+      "release_date": "2021-07-07",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 8866
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b0Do93IEW8UeIqCbHHztT24bAep.jpg",
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "id": "98566",
+      "title": "Teenage Mutant Ninja Turtles",
+      "original_language": "en",
+      "original_title": "Teenage Mutant Ninja Turtles",
+      "overview": "The city needs heroes. Darkness has settled over New York City as Shredder and his evil Foot Clan have an iron grip on everything from the police to the politicians. The reptilian warriors team with fearless reporter April O'Neil and her eccentric producer Vern Fenwick to take on the Foot Clan.",
+      "popularity": 107.414,
+      "poster_path": "/b0Do93IEW8UeIqCbHHztT24bAep.jpg",
+      "release_date": "2014-08-07",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 6215
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kdbLf3aTQsEXqYlH9vA4fzmnSFz.jpg",
+      "genres": [
+        {
+          "id": 10752,
+          "name": "War"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "id": "228150",
+      "title": "Fury",
+      "original_language": "en",
+      "original_title": "Fury",
+      "overview": "In the last months of World War II, a battle-hardened U.S. Army Staff Sergeant commands a Sherman tank and its five-man crew on a deadly mission behind enemy lines.",
+      "popularity": 103.991,
+      "poster_path": "/fFJd1HggkQilFblsk5mQUrrpU5h.jpg",
+      "release_date": "2014-10-15",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 10711
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3MF0ADRkiNkhklmCo9o4zTT39Mj.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "id": "550988",
+      "title": "Free Guy",
+      "original_language": "en",
+      "original_title": "Free Guy",
+      "overview": "A bank teller called Guy realizes he is actually a background player in an open-world video game, and decides to become the hero of his own story.",
+      "popularity": 101.454,
+      "poster_path": "/7PY0SkhIGgPS4XVyDJqaiDb4T93.jpg",
+      "release_date": "2021-08-11",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 7122
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5tub2Kw6NboWFblA1CgDEwB59jP.jpg",
+      "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "id": "177572",
+      "title": "Big Hero 6",
+      "original_language": "en",
+      "original_title": "Big Hero 6",
+      "overview": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+      "popularity": 97.704,
+      "poster_path": "/tBOl7K5HeBrMtLV73EsNI2hRryK.jpg",
+      "release_date": "2014-10-24",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 14397
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "id": "383498",
+      "title": "Deadpool 2",
+      "original_language": "en",
+      "original_title": "Deadpool 2",
+      "overview": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+      "popularity": 91.783,
+      "poster_path": "/uC7YwWcXusYgpWHSxl6njJDiFfk.jpg",
+      "release_date": "2018-05-10",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 15846
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lOXVbF2mBK0xUt8sLInF3TIk5YS.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "id": "2048",
+      "title": "I, Robot",
+      "original_language": "en",
+      "original_title": "I, Robot",
+      "overview": "In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.",
+      "popularity": 86.064,
+      "poster_path": "/nFTQkC8COaEthQRfeOCqIhKHk67.jpg",
+      "release_date": "2004-07-15",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 10642
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
+      "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "id": "337401",
+      "title": "Mulan",
+      "original_language": "en",
+      "original_title": "Mulan",
+      "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Army to defend the country from Northern invaders, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father.",
+      "popularity": 70.702,
+      "poster_path": "/SnXUdLT7AyZWoeaINVGYJ0xg5U.jpg",
+      "release_date": "2020-09-04",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 6116
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2ex2beZ4ssMeOduLD0ILzXKCiep.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "id": "246655",
+      "title": "X-Men: Apocalypse",
+      "original_language": "en",
+      "original_title": "X-Men: Apocalypse",
+      "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+      "popularity": 63.735,
+      "poster_path": "/vsv91Fj4pxOEm2QJ96jq2EXS7QT.jpg",
+      "release_date": "2016-05-18",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 11938
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "id": "9806",
+      "title": "The Incredibles",
+      "original_language": "en",
+      "original_title": "The Incredibles",
+      "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his family with his formerly heroic wife. But when he gets a chance to re-emerge as a hero, it turns out to be a diabolical trap.",
+      "popularity": 60.659,
+      "poster_path": "/tLcIGje9lDE0J4FyYGJoQShlK7X.jpg",
+      "release_date": "2004-10-27",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 16170
+    },
+    {
+      "adult": false,
       "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
       "genres": [
         {
@@ -521,143 +1101,6 @@
       "video": false,
       "vote_average": 6.93,
       "vote_count": 71
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
-      "genres": [
-        {
-          "id": 27,
-          "name": "Horror"
-        }
-      ],
-      "id": "1352874",
-      "title": "The Crucifix: Blood of the Exorcist",
-      "original_language": "en",
-      "original_title": "The Crucifix: Blood of the Exorcist",
-      "overview": "A gruesome discovery in the grounds of their new home plunges a young couple into a maelstrom of spiritual possession, pagan rituals, Viking battles, and violent revenge.",
-      "popularity": 143.4088,
-      "poster_path": "/uLXxpWRfoIPfB2fwM8hsAMIjSWf.jpg",
-      "release_date": "2025-01-09",
-      "video": false,
-      "vote_average": 6.571,
-      "vote_count": 21
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
-      "genres": [
-        {
-          "id": 27,
-          "name": "Horror"
-        },
-        {
-          "id": 53,
-          "name": "Thriller"
-        }
-      ],
-      "id": "1010755",
-      "title": "The Strangers: Chapter 3",
-      "original_language": "en",
-      "original_title": "The Strangers: Chapter 3",
-      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they're far from strangers now.",
-      "popularity": 131.2846,
-      "poster_path": "/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
-      "release_date": "2026-02-05",
-      "video": false,
-      "vote_average": 5.672,
-      "vote_count": 116
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
-      "genres": [
-        {
-          "id": 878,
-          "name": "Science Fiction"
-        },
-        {
-          "id": 28,
-          "name": "Action"
-        },
-        {
-          "id": 12,
-          "name": "Adventure"
-        }
-      ],
-      "id": "1003596",
-      "title": "Avengers: Doomsday",
-      "original_language": "en",
-      "original_title": "Avengers: Doomsday",
-      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-      "popularity": 23.1289,
-      "poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
-      "release_date": "2026-12-16",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
-      "genres": [
-        {
-          "id": 16,
-          "name": "Animation"
-        },
-        {
-          "id": 28,
-          "name": "Action"
-        },
-        {
-          "id": 12,
-          "name": "Adventure"
-        },
-        {
-          "id": 14,
-          "name": "Fantasy"
-        }
-      ],
-      "id": "980431",
-      "title": "Avatar Aang: The Last Airbender",
-      "original_language": "en",
-      "original_title": "Avatar Aang: The Last Airbender",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "popularity": 294.0381,
-      "poster_path": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
-      "release_date": "2026-10-09",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rytc6Lf4447C0CDncwFa4gxe0vY.jpg",
-      "genres": [
-        {
-          "id": 878,
-          "name": "Science Fiction"
-        },
-        {
-          "id": 28,
-          "name": "Action"
-        },
-        {
-          "id": 12,
-          "name": "Adventure"
-        }
-      ],
-      "id": "1003598",
-      "title": "Avengers: Secret Wars",
-      "original_language": "en",
-      "original_title": "Avengers: Secret Wars",
-      "overview": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.",
-      "popularity": 7.4301,
-      "poster_path": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
-      "release_date": "2027-12-16",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

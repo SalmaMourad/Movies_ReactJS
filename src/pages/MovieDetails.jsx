@@ -2,6 +2,8 @@ import { useLoaderData, useNavigate } from "react-router-dom";
 import { Container, Row, Col, Badge, Button } from "react-bootstrap";
 import "../styles/MovieDetails.css";
 import { useMovies } from "../context/MovieContext";
+import { useDispatch } from "react-redux";
+import { deleteMovie } from "../redux/slices/moviesFetch";
 
 const imgPath = "https://image.tmdb.org/t/p/w500/";
 const bgPath = "https://image.tmdb.org/t/p/original/";
@@ -9,10 +11,12 @@ const bgPath = "https://image.tmdb.org/t/p/original/";
 const MovieDetails = () => {
   const movie = useLoaderData();
   const navigate = useNavigate();
-  const { removeMovie } = useMovies();
+  // const { removeMovie } = useMovies();
+  const dispatch = useDispatch();
+
 
   const handleDelete = async () => {
-    await removeMovie(movie.id);
+    await dispatch(deleteMovie(movie.id));
     navigate("/");
   };
 

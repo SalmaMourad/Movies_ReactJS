@@ -1,12 +1,133 @@
 body {
-
-  /* background-color: #3f3838 !important;  ; */
   background-color: #121212 !important;
   ;
-  /* color: brown ;; */
   font-family: "Segoe UI", sans-serif;
-
-
-  
   padding-top: 40px;
+}
+
+.search-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.custom-search {
+  background: rgba(255, 255, 255, 0.07) !important;
+  backdrop-filter: blur(10px) !important;
+  border: 1px solid rgba(129, 140, 248, 0.3) !important;
+  color: white !important;
+  padding: 12px 25px 12px 45px !important;
+  /* Extra padding on the left for the icon */
+  transition: all 0.3s ease-in-out !important;
+}
+
+/* The Glow when you click to search */
+.custom-search:focus {
+  background: rgba(129, 140, 248, 0.1) !important;
+  border-color: #818cf8 !important;
+  box-shadow: 0 0 20px rgba(129, 140, 248, 0.4) !important;
+  outline: none;
+}
+
+/* Style the placeholder text color */
+.custom-search::placeholder {
+  color: rgba(255, 255, 255, 0.4) !important;
+  font-size: 0.95rem;
+}
+
+/* Handle the "X" clear button in Chrome/Safari */
+.custom-search::-webkit-search-cancel-button {
+  filter: invert(1);
+  cursor: pointer;
+}
+
+.fav-badge-glow {
+  background: rgba(129, 140, 248, 0.2) !important;
+  color: #818cf8 !important;
+  border: 1px solid rgba(129, 140, 248, 0.5);
+  min-width: 22px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  /* Glow Effect */
+  box-shadow: 0 0 10px rgba(129, 140, 248, 0.4);
+  transition: all 0.3s ease;
+}
+/* Subtle pulse animation when user adds a favorite */
+.fav-badge-glow:not(:empty) {
+  animation: badge-pulse 2s infinite;
+}
+@keyframes badge-pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(129, 140, 248, 0.7);
+  }
+
+  70% {
+    box-shadow: 0 0 0 6px rgba(129, 140, 248, 0);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(129, 140, 248, 0);
+  }
+}
+
+.heart-icon {
+  width: 22px;
+  height: 22px;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.fav-btn-glass {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  z-index: 10;
+}
+
+/* Hover state for both active and inactive */
+.fav-btn-glass:hover {
+  transform: scale(1.1);
+  background: rgba(129, 140, 248, 0.2);
+  border-color: #818cf8;
+}
+
+.fav-btn-glass:hover .heart-icon {
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 5px rgba(129, 140, 248, 0.8));
+}
+
+/* Active (Favorited) State */
+.fav-btn-glass.active {
+  border-color: rgba(129, 140, 248, 0.6);
+  background: rgba(129, 140, 248, 0.15);
+}
+
+.fav-btn-glass.active .heart-icon {
+  /* This creates the "Indigo Glow" on the heart itself */
+  filter: drop-shadow(0 0 8px rgba(129, 140, 248, 0.9));
+}
+
+/* Force all links to inherit the parent color or be white/indigo */
+/* a {
+  color: inherit !important;
+  text-decoration: none !important;
+} */
+
+/* Specifically target the NavLinks in the Navbar */
+.nav-link {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: #818cf8 !important;
 }

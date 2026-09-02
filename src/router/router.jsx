@@ -5,6 +5,7 @@ import Layout from "../pages/Layout";
 import { getMovies, getMovieById } from "../api/movieApi";
 import AddEditMovie from "../pages/AddEditMovie";
 import LoginSignUp from "../pages/LoginSignUp";
+import Favorites from "../pages/FavoUrite";
 const Home = lazy(() => import("../pages/Home"));
 const MovieDetails = lazy(() => import("../pages/MovieDetails"));
 
@@ -40,6 +41,10 @@ export const router = createBrowserRouter([
       {
         path: "auth",
         element: <LoginSignUp />,
+      },
+      {
+        path: "favorites",
+        element: <Favorites />,
       }
     ],
   },

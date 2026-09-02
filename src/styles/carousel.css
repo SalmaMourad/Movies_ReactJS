@@ -10,7 +10,7 @@
   display: flex;
   align-items: center;
 
-  /* 🔥 Netflix gradient */
+  /* Netflix gradient */
   background: linear-gradient(to right,
       rgba(0, 0, 0, 0.9) 20%,
       rgba(0, 0, 0, 0.6) 50%,
@@ -39,7 +39,7 @@
   color: #ddd;
   margin-bottom: 20px;
 
-  /* يخلي النص قصير */
+  /* Short overview text */
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
@@ -59,22 +59,3 @@
 .hero-btn:hover {
   background-color: #ddd;
 }
-
-/* .carousel-overlay {
-  height: 100%;
-  background: linear-gradient(
-    to top,
-    rgba(0, 0, 0, 0.4),
-    rgba(0, 0, 0, 0.35)
-  );
-  color: white;
-}
-
-.carousel-overlay h2 {
-  font-weight: bold;
-}
-
-.carousel-overlay p {
-  font-size: 18px;
-  color: #ffc107;
-} */

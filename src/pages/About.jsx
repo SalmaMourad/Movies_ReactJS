@@ -4,7 +4,7 @@ const About = () => {
   return (
     <Container className="mt-5 py-5 text-white">
       <div className="text-left mb-5">
-        <h1 className="display-6 fw-bold">About <span style={{ color: '#818cf8' }}>Project</span>Movies</h1>
+        <h1 className="display-6 fw-bold"><span style={{ color: '#818cf8' }}>Project</span>Movies</h1>
         <p className="lead text-secondary">Bringing the magic of using react.</p>
       </div>
       <Row className="align-items-center">

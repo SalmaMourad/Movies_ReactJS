@@ -2,7 +2,6 @@ import { FormControl, FormLabel, FormControlLabel, Checkbox, Box, TextField, Sta
 import { useState } from "react";
 
 const LoginSignUp = () => {
-  // state
   const [genres, setGenres] = useState([]);
   const [gender, setGender] = useState("");
   const [mode, setMode] = useState("login");
@@ -11,20 +10,20 @@ const LoginSignUp = () => {
   const handleLanguageChange = (event) => {
     setLanguage(event.target.value);
   };
-  const [formData, setFormData] = useState({
-    firstName: "",
-    lastName: "",
-    email: "",
-    phone: "",
-    password: ""
-  });
+  // const [formData, setFormData] = useState({
+  //   firstName: "",
+  //   lastName: "",
+  //   email: "",
+  //   phone: "",
+  //   password: ""
+  // });
 
-  // toggle login/signup
+  // toggle
   const handleModeChange = (e, newMode) => {
     if (newMode !== null) setMode(newMode);
   };
 
-  // checkbox (genres)
+  // checkbox
   const handleGenresChange = (event) => {
     const value = event.target.value;
 
@@ -35,20 +34,20 @@ const LoginSignUp = () => {
     }
   };
 
-  // radio (gender)
+  // radio
   const handleGenderChange = (event, value) => {
     setGender(value);
   };
 
   // inputs
-  const handleInputChange = (e) => {
-    const { name, value } = e.target;
+  // const handleInputChange = (e) => {
+  //   const { name, value } = e.target;
 
-    setFormData({
-      ...formData,
-      [name]: value
-    });
-  };
+  //   setFormData({
+  //     ...formData,
+  //     [name]: value
+  //   });
+  // };
 
   // submit
   const handleSubmit = (e) => {
@@ -56,7 +55,7 @@ const LoginSignUp = () => {
 
     console.log({
       mode,
-      formData,
+      // formData,
       gender,
       genres
     });
@@ -67,26 +66,46 @@ const LoginSignUp = () => {
       component="form"
       onSubmit={handleSubmit}
       sx={{
-        width: 400,
+        width: "100%",
+        maxWidth: 400,
         margin: "33px auto",
-        padding: 3,
+        padding: { xs: 2, sm: 3 },
         borderRadius: 3,
+        border: "1px solid indigo",
         boxShadow: 3,
-        backgroundColor: "#eff1f8"
-      }}
-    >
-      {/* title */}
-      {/* <Typography variant="h4" color="black" textAlign="center" mb={2} sx={{ color: "black" }}>
-        Movies
-      </Typography> */}
+        backgroundColor: "#20212e81",
+        color: "white",
 
+        "& .MuiInputLabel-root": {
+          color: "white",
+        },
+        "& .MuiOutlinedInput-input": {
+          color: "white",
+        },
+        "& .MuiSvgIcon-root": {
+          color: "#5c6ac4",
+        }
+      }}
+    // eff1f810
+    >
       {/* toggle */}
       <ToggleButtonGroup
         value={mode}
         exclusive
         onChange={handleModeChange}
         fullWidth
-        sx={{ mb: 3 }}
+        sx={{
+          mb: 3,
+          color: "white",
+          "& .MuiToggleButton-root": {
+            color: "white",
+            borderColor: "#5c6ac4",
+          },
+          "& .Mui-selected": {
+            backgroundColor: "#5c6ac4 !important",
+            color: "white",
+          },
+        }}
       >
         <ToggleButton value="login">Login</ToggleButton>
         <ToggleButton value="signup">Sign Up</ToggleButton>
@@ -98,15 +117,16 @@ const LoginSignUp = () => {
           name="email"
           fullWidth
           sx={{
-            input: { color: "black" },
+            input: { color: "white" },
+            label: { color: "white" },
 
             "& .MuiOutlinedInput-root": {
-              "& fieldset": { borderColor: "gray" },
-              "&:hover fieldset": { borderColor: "black" },
+              "& fieldset": { borderColor: "white" },
+              "&:hover fieldset": { borderColor: "white" },
             },
             "& input:-webkit-autofill": {
-              WebkitBoxShadow: "0 0 0 100px #eff1f8 inset",
-              WebkitTextFillColor: "black",
+              // WebkitBoxShadow: "0 0 0 100px #eff1f8 inset",
+              WebkitTextFillColor: "white",
               transition: "background-color 5000s ease-in-out 0s",
             },
           }}
@@ -117,20 +137,21 @@ const LoginSignUp = () => {
           type="password"
           fullWidth
           sx={{
-            input: { color: "black" },
+            input: { color: "white" },
+            label: { color: "white" },
+
 
             "& .MuiOutlinedInput-root": {
-              "& fieldset": { borderColor: "gray" },
-              "&:hover fieldset": { borderColor: "black" },
+              "& fieldset": { borderColor: "white" },
+              "&:hover fieldset": { borderColor: "white" },
             },
             "& input:-webkit-autofill": {
-              WebkitBoxShadow: "0 0 0 100px #eff1f8 inset",
-              WebkitTextFillColor: "black",
+              // WebkitBoxShadow: "0 0 0 100px #eff1f8 inset",
+              WebkitTextFillColor: "white",
               transition: "background-color 5000s ease-in-out 0s",
             },
           }}
         />
-        {/* inputs */}
         {mode === "signup" && (
           <>
             <TextField
@@ -138,15 +159,16 @@ const LoginSignUp = () => {
               name="Name"
               fullWidth
               sx={{
-                input: { color: "black" },
+                input: { color: "white" },
+                label: { color: "white" },
 
                 "& .MuiOutlinedInput-root": {
-                  "& fieldset": { borderColor: "gray" },
-                  "&:hover fieldset": { borderColor: "black" },
+                  "& fieldset": { borderColor: "white" },
+                  "&:hover fieldset": { borderColor: "white" },
                 },
                 "& input:-webkit-autofill": {
-                  WebkitBoxShadow: "0 0 0 100px #eff1f8 inset",
-                  WebkitTextFillColor: "black",
+                  // WebkitBoxShadow: "0 0 0 100px #eff1f8 inset",
+                  WebkitTextFillColor: "white",
                   transition: "background-color 5000s ease-in-out 0s",
                 },
               }}
@@ -157,20 +179,30 @@ const LoginSignUp = () => {
               value={language}
               onChange={handleLanguageChange}
               fullWidth
+              // sx={{
+              //   input: { color: "white" },
+              //   label: { color: "white" },
+              //   select: { color: "white" },
+              //   "& .MuiOutlinedInput-root": {
+              //     "& fieldset": { borderColor: "white" },
+              //     "&:hover fieldset": { borderColor: "white" },
+              //   },
+              //   "& input:-webkit-autofill": {
+              //     // WebkitBoxShadow: "0 0 0 100px #eff1f8 inset",
+              //     WebkitTextFillColor: "white",
+              //   },
+              // }}
               sx={{
-                input: { color: "black" },
-                label: { color: "gray" },
-
                 "& .MuiOutlinedInput-root": {
-                  "& fieldset": { borderColor: "gray" },
-                  "&:hover fieldset": { borderColor: "black" },
+                  "& fieldset": { borderColor: "white" },
+                  "&:hover fieldset": { borderColor: "white" },
                 },
-
-                // fix autofill (لو حصل)
-                "& input:-webkit-autofill": {
-                  WebkitBoxShadow: "0 0 0 100px #eff1f8 inset",
-                  WebkitTextFillColor: "black",
+                "& .MuiSelect-icon": {
+                  color: "white",
                 },
+                "& .MuiInputLabel-root": {
+                  color: "white",
+                }
               }}
             >
               <MenuItem value="English">English</MenuItem>
@@ -185,35 +217,56 @@ const LoginSignUp = () => {
         {mode === "signup" && (
 
           <FormControl>
-            <FormLabel sx={{ color: "black" }}>Genres You Prefer</FormLabel>
+            <FormLabel sx={{ color: "white" }}>Genres You Prefer</FormLabel>
 
-            {/* <Stack direction="row" spacing={2} flexWrap="wrap" useFlexGap justifyContent="space-between" sx={{ color: "black" }} > */}
-            <Box display="grid" gridTemplateColumns="repeat(2, 1fr)" gap={1} sx={{ color: "black" }}>
+            <Box display="grid"
+              gridTemplateColumns={{ xs: "1fr", sm: "repeat(2, 1fr)" }}
+              gap={1}
+              sx={{ color: "white" }}>
               <FormControlLabel
-                control={<Checkbox color="primary" />}
+                control={<Checkbox sx={{
+                  color: "white",
+                  "&.Mui-checked": {
+                    color: "#5c6ac4", 
+                  },
+                }} />}
                 label="Action"
                 value="Action"
                 onChange={handleGenresChange}
               />
               <FormControlLabel
-                control={<Checkbox color="primary" />}
+                control={<Checkbox sx={{
+                  color: "white",
+                  "&.Mui-checked": {
+                    color: "#5c6ac4", 
+                  },
+                }} />}
                 label="Comedy"
                 value="Comedy"
                 onChange={handleGenresChange}
               />
               <FormControlLabel
-                control={<Checkbox color="primary" />}
+                control={<Checkbox sx={{
+                  color: "white",
+                  "&.Mui-checked": {
+                    color: "#5c6ac4", // keep primary color when checked
+                  },
+                }} />}
                 label="Drama"
                 value="Drama"
                 onChange={handleGenresChange}
               />
               <FormControlLabel
-                control={<Checkbox color="primary" />}
+                control={<Checkbox sx={{
+                  color: "white",
+                  "&.Mui-checked": {
+                    color: "#5c6ac4", 
+                  },
+                }} />}
                 label="Sci-Fi"
                 value="Sci-Fi"
                 onChange={handleGenresChange}
               />
-              {/* </Stack> */}
             </Box>
 
           </FormControl>
@@ -222,17 +275,17 @@ const LoginSignUp = () => {
         {/* gender */}
         {mode === "signup" && (
           <FormControl>
-            <FormLabel sx={{ color: "black" }}>Gender</FormLabel>
+            <FormLabel sx={{ color: "white" }}>Gender</FormLabel>
 
             <RadioGroup row value={gender} onChange={handleGenderChange}>
-              <FormControlLabel value="Female" control={<Radio color="primary" />} label="Female" sx={{ color: "black" }} />
-              <FormControlLabel value="Male" control={<Radio color="primary" />} label="Male" sx={{ color: "black" }} />
+              <FormControlLabel value="Female" control={<Radio sx={{ color: "white" }} />} label="Female" sx={{ color: "white" }} />
+              <FormControlLabel value="Male" control={<Radio sx={{ color: "white" }} />} label="Male" sx={{ color: "white" }} />
             </RadioGroup>
           </FormControl>
         )}
 
         {/* submit */}
-        <Button type="submit" variant="contained" color="primary">
+        <Button type="submit" variant="contained" fullWidth sx={{ backgroundColor: "#5c6ac4", color: "white", "&:hover": { backgroundColor: "#747edb" } }}>
           {mode === "login" ? "Login" : "Sign Up"}
         </Button>
 
